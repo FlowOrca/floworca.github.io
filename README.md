@@ -116,7 +116,7 @@ Nothing for bots to find.
 PROJECT       DESCRIPTION                STATUS
 ---------     ---------------------      -----------
 Riptide       Signal Architecture        Bespoke
-OrcaVault     Sovereign AI+              Active
+OrcaVault.ai  Sovereign AI+              Active
 Castnet       Cognitive Meta-Analysis    Invite Only
 ```
 
